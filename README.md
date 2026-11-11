@@ -23,6 +23,10 @@
   TypeScript from headless Drupal (JSON:API), with Fuse.js search and GitHub
   Actions CI/CD deploying to Pantheon. Platinum, gold and silver award
   winner.
+ - **[Every Neighbor Has a
+  Story](https://comed.theefficienthome.com/issue2/feature.html)** (ComEd,
+  The Efficient Home, 2026): feature page with GSAP ScrollTrigger scroll
+  animations and curtain-reveal effects.
   - **[Project Profiles](https://www.hudexchange.info/programs/section-108/pr
   oject-profiles/)** (HUD, 2024): turned a traditional page into an
   interactive experience with JavaScript, Bootstrap, GSAP and Mura CMS.
