@@ -1,10 +1,14 @@
  # Jason Derifaj
 
-  Senior Front-End Creative Developer at ICF's Creative Studio. I build responsive,
-  accessible, animation-led websites for government and utility clients.
+Bio:
+  Senior Front-End Creative Developer at ICF. JavaScript, React, Astro and GSAP. Accessible,
+  animation-led websites.
 
-  **Stack:** JavaScript, TypeScript, React, Astro, GSAP, Drupal, Sass, Section 508 / WCAG
-  accessibility
+  URL:
+  https://jasonderifaj.com/
+
+  Location:
+  Raleigh-Durham, NC
 
 ## Selected work
 
