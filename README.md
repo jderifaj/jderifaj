@@ -1,16 +1,21 @@
-## Hi there 👋
+ # Jason Derifaj
 
-<!--
-**jderifaj/jderifaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Senior Front-End Creative Developer at ICF's Creative Studio. I build responsive,
+  accessible, animation-led websites for government and utility clients.
 
-Here are some ideas to get you started:
+  **Stack:** JavaScript, TypeScript, React, Astro, GSAP, Drupal, Sass, Section 508 / WCAG
+  accessibility
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Selected work
+
+  - **[The Efficient Home magazine](https://bgesmartenergy.com/magazine/issue3/)** (BGE): a
+  five-issue digital magazine built in Astro and TypeScript from headless Drupal, with GitHub
+  Actions CI/CD. Platinum, gold and silver award winner.
+  - **[Jersey Ready](https://njready.com/)** (PSEG): full site in HTML, CSS, JavaScript and
+  GSAP, built in under a week.
+  - **[Division of Cancer Control
+  highlights](https://cancercontrol.cancer.gov/overview-highlights/2024/)** (National Cancer
+  Institute): an award-winning interactive annual report.
+
+  Portfolio: https://jasonderifaj.com/ · LinkedIn:
+  https://www.linkedin.com/in/jason-derifaj-b219a72
