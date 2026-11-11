@@ -19,7 +19,7 @@
   - **[Come On In campaign](https://bgesmartenergy.com/comeonin/index.html)**
   (BGE, 2025): full site in Astro, GSAP, CSS and HTML.
   - **[The Efficient Home magazine](https://theefficienthome.com/)** (BGE,
-  2022–2025): co-developed a five-issue digital magazine in Astro and
+  2022–2026): co-developed a five-issue digital magazine in Astro and
   TypeScript from headless Drupal (JSON:API), with Fuse.js search and GitHub
   Actions CI/CD deploying to Pantheon. Platinum, gold and silver award
   winner.
