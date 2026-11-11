@@ -27,8 +27,7 @@
   Story](https://comed.theefficienthome.com/issue2/feature.html)** (ComEd,
   The Efficient Home, 2026): feature page with GSAP ScrollTrigger scroll
   animations and curtain-reveal effects.
-  - **[Project Profiles](https://www.hudexchange.info/programs/section-108/pr
-  oject-profiles/)** (HUD, 2024): turned a traditional page into an
+  - **[Project Profiles](https://www.hudexchange.info/programs/section-108/project-profiles/)** (HUD, 2024): turned a traditional page into an
   interactive experience with JavaScript, Bootstrap, GSAP and Mura CMS.
   - **[Division of Cancer Control highlights
   2024](https://cancercontrol.cancer.gov/overview-highlights/2024/)**
